@@ -12,12 +12,13 @@ require("./config")(app);
 
 
 
+const authRouter = require("./routes/auth.routes");
+app.use("/api/auth", authRouter);
 // 👇 MIDDLEWARE MISSING
 const allRoutes = require("./routes");
 app.use("/api", allRoutes);
 
-const authRouter = require("./routes/auth.routes");
-app.use("/api/auth", authRouter);
+
 
 const oficinaRoutes = require("./routes/oficina.routes");
  app.use("/api", oficinaRoutes);

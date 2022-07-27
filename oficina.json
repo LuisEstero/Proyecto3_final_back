@@ -1,0 +1,48 @@
+[{
+  "imagen": "./public/images/Gran-Via.jpg",
+  "Direccion": "Gran via de Carlos III 84"
+},{
+  "imagen": "./public/images/Rector-Triado.jpg",
+  "Direccion": "Carrer Rector Triado, 40",
+  "Name": "Rector Triado"
+},{
+  "imagen": "./public/images/OneCoWork.jpeg",
+  "Direccion": "Carrer d´Estruc 9",
+  "Name": "OneCoWork"
+},{
+  "imagen": "./public/images/Singula-Cowork.jpg",
+  "Direccion": "Carrer Sant Agustí 5, 2A",
+  "Name": "Singular Cowork"
+},{
+  "imagen": "./public/images/Diagonal.jpeg",
+  "Direccion": "Avd Diagonal 177",
+  "Name": "Diagonal"
+},{
+  "imagen": "./public/images/Aribau.jpeg",
+  "Direccion": "Carrer Aribau 230-240, 8B",
+  "Name": "Aribau"
+},{
+  "imagen": "./public/images/Marina.jpeg",
+  "Direccion": "Carrer Marina 16-18",
+  "Name": "Marina"
+},{
+  "imagen": "./public/images/SpaceMar.png",
+  "Direccion": "Carrer de Provença, 339",
+  "Name": "Space Mar"
+},{
+  "imagen": "./public/images/Aticco.jpg",
+  "Direccion": "Carrer Caponata 8",
+  "Name": "Cap Working"
+},{
+  "imagen": "./public/images/Betahaus.jpeg",
+  "Direccion": "Via Augusta 29",
+  "Name": "Betahaus"
+},{
+  "imagen": "./public/images/Verdaguer.jpeg",
+  "Direccion": "Carrer de Lluis Muntadas 8",
+  "Name": "Monday"
+},{
+  "imagen": "./public/images/Utopicus.jpg",
+  "Direccion": "Plaza del Gas 1",
+  "Name": "Utopicus"
+}]
